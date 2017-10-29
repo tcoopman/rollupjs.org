@@ -375,4 +375,8 @@ export default {
     exclude: 'node_modules/**'
   }
 };
+
+#### watch.clearScreen
+
+set to `false` to prevent the screen from clearing after a change. The default is `true`
 ```
